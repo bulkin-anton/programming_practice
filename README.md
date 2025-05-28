@@ -55,3 +55,5 @@ First-year assignments in Pascal and Assembler:
 - **Development environment**: any text editor or IDE (Code::Blocks, Visual Studio, CLion)
 
 ---
+
+TO DO: add task_1, ... task_n descriptions
