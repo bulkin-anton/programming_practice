@@ -20,7 +20,7 @@ A set of various programming exercises and projects in different languages and o
 Implementations of popular tasks and algorithms from competition venues and own developments:  
 - **Codeforces**: solutions to problems of various levels of complexity in C/C++.  
 - **LeetCode**: classical problems (Palindrome, ZigZag, etc.) in C.
-- **Learning algorithms** ('y_algorithms/`):
+- **Learning algorithms** (`y_algorithms/`):
 - Sorting: Merge, Quick, Radix  
   - Graphs: Dijkstra and its optimizations  
   - String algorithms: Z-function, string comparison  
